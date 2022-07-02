@@ -1,3 +1,2 @@
-# hotstar
-Images-and videos
-Star to repo is appreciated.
+Hotstar clone Project ( Front end only) 
+DevTown certification
